@@ -1,0 +1,15 @@
+.home1 h1 {
+    font-size: 3rem;
+    color: blue;
+    text-align: center;
+}
+
+.home1 h2 {
+    font-size: 2rem;
+    color: blue;
+    text-align: center;
+}
+
+#home2 {
+    text-align: center;
+}
